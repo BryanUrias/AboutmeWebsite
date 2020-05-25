@@ -1,5 +1,7 @@
 let myImage = document.querySelector('img');
 
+alert.log("Hello!");
+
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
     if(mySrc === 'images/seashore.jpg') {
