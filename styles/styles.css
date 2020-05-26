@@ -10,13 +10,13 @@ h1 {
 
 p, li {
  
-  font-size: 48 px;
+  font-size: 60 px;
   line-height: 2;
   letter-spacing: 1px;
 
 }
 html {
-font-size: 10px;
+font-size: 60px;
 font-family: 'Nunito', sans-serif;
 background-color: rgb(245, 244, 239);
 }
@@ -33,7 +33,7 @@ body {
 }
 
 img {
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
   object-fit: contain;
 }
