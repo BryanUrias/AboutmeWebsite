@@ -18,6 +18,7 @@ p, li {
 html {
 font-size: 10px;
 font-family: 'Nunito', sans-serif;
+background-color: rgb(245, 244, 239);
 }
 
 /* this will be the body of the text */
